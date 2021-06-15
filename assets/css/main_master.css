@@ -98,7 +98,6 @@
 
 	html {
 		box-sizing: border-box;
-        scroll-behavior: smooth;
 	}
 
 	*, *:before, *:after {
@@ -2330,10 +2329,6 @@
 			text-align: center;
 		}
 
-        .box.special.half {
-            height: 30em;
-        }
-
 		.box .image.featured {
 			border-radius: 0;
 			display: block;
@@ -3186,14 +3181,14 @@
 		}
 
 		#banner h2 {
-			font-size: 4.5em;
+			font-size: 3.5em;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
 
 		#banner p {
-			font-size: 1.75em;
+			font-size: 1.25em;
 			margin-bottom: 1.75em;
 		}
 
@@ -3232,7 +3227,7 @@
 /* Main */
 
 	#main {
-		padding: 2em 0;
+		padding: 4em 0;
 	}
 
 		#main > header {
